@@ -79,4 +79,4 @@
 			/delete-property/ qcom,not-loadable;
 		};
 	};
-}; 
+};
